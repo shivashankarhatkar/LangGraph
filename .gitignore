@@ -1,0 +1,116 @@
+# =========================
+# Python Virtual Environments
+# =========================
+venv/
+env/
+ENV/
+.venv/
+myenv/
+
+# =========================
+# Python Cache Files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Jupyter Notebook Checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# PyCharm / IntelliJ
+# =========================
+.idea/
+
+# =========================
+# Python Build Files
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Type Checking
+# =========================
+.mypy_cache/
+.pyre/
+.ruff_cache/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LangChain / LangGraph Secrets
+# =========================
+*.pem
+*.key
+*.crt
+
+# =========================
+# Local Databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# ChromaDB
+# =========================
+chroma/
+chroma_db/
+persist_directory/
+
+# =========================
+# FAISS
+# =========================
+*.faiss
+faiss_index/
+
+# =========================
+# Model Artifacts
+# =========================
+models/
+checkpoints/
+
+# =========================
+# Temporary Files
+# =========================
+temp/
+tmp/
+*.tmp
+
+# =========================
+# LangSmith / Runtime Files
+# =========================
+.langsmith/
