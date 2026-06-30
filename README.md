@@ -1,10 +1,7 @@
 
-# LangGraph Learning Repository
+# LangGraph Repository
 
 A structured, hands-on repository documenting my journey of learning **LangGraph** from the fundamentals to advanced workflow patterns used in modern AI agents.
-
-Rather than only studying the theory, every concept is implemented as a separate Jupyter Notebook with practical examples, allowing me to understand how each component works before integrating them into real-world AI applications.
-
 ---
 
 # Objectives
@@ -16,9 +13,9 @@ Rather than only studying the theory, every concept is implemented as a separate
 
 ---
 
-# Learning Roadmap
+# Roadmap
 
-The notebooks are organized in the same order in which I learned LangGraph.
+The notebooks are organized in the same order in which the LangGraph works.
 
 | Notebook | Topic |
 |----------|-------|
