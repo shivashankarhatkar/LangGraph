@@ -1,7 +1,7 @@
 
 # LangGraph Repository
 
-A structured, hands-on repository documenting my journey of learning **LangGraph** from the fundamentals to advanced workflow patterns used in modern AI agents.
+A structured, hands-on repository documenting **LangGraph** from the fundamentals to advanced workflow patterns used in modern AI agents.
 ---
 
 # Objectives
